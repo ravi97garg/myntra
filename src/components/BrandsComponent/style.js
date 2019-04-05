@@ -12,11 +12,11 @@ display: flex;
 flex-basis: 250px;
 min-height: 330px;
 background: ${props=>`url(${props.image}) no-repeat`};
-margin-bottom: 30px;
 flex-direction: column;
 justify-content: flex-end;
 align-items: center;
 margin: 20px;
+cursor: pointer;
 `
 
 export const ImageCaption = styled.div`

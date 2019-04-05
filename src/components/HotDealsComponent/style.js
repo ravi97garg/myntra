@@ -18,6 +18,7 @@ line-height: 24px;
 flex-direction: column;
 justify-content: space-around;
 padding: 0 18px;
+cursor: pointer;
 `;
 
 export const Header = styled.h6`

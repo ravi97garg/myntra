@@ -15,7 +15,7 @@ export default class OfferCarouselComponent extends React.Component{
             >
                 {carouselImgs.map((image, index) => {
                     return (
-                        <Carousel.Item key={index}>
+                        <Carousel.Item key={index} style={{cursor: 'pointer'}}>
                             <Image src={image.image}/>
                         </Carousel.Item>
                     )

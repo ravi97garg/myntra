@@ -11,4 +11,5 @@ export const NavList = styled.li`
     vertical-align: middle;
     font-size: 14px;
     font-weight: 450;
+    cursor: pointer;
     `

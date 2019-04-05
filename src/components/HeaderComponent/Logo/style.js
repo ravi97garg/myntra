@@ -6,4 +6,5 @@ export const StyledLogo = styled.div`
     height: 36px;
     display: inline-block;
     vertical-align: middle;
+    cursor: pointer;
 `

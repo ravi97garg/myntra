@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {BrandCard, BrandDesc, BrandFooter, BrandsWrapper, BrandTitle, ImageCaption} from "./style";
 import images from '../../images';
-import {Footer} from "../HotDealsComponent/style";
 
 export default class BrandsComponent extends Component {
 

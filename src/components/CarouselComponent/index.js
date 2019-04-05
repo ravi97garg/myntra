@@ -13,7 +13,6 @@ export default class ControlledCarousel extends React.Component {
 
             <Carousel
                 style={{margin: '14px'}}
-                fade={true}
                 interval={3000}
                 controls={false}
             >

@@ -10,6 +10,7 @@ export const StyledTopCorner = styled.ul`
         display: inline-block;
         vertical-align: middle;
         padding: 0 10px;
+        cursor: pointer;
     }
     `
 

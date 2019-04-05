@@ -10,7 +10,6 @@ export default class OfferCarouselComponent extends React.Component{
         return (
             <Carousel
                 style={{margin: '14px'}}
-                fade={true}
                 interval={3000}
                 controls={false}
             >

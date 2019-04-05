@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42da2283-a06c-48a9-a555-d03058817470" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react_5b_myntra.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BrandsComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BrandsComponent/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CarouselComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CarouselComponent/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/Logo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/Logo/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/NavbarComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/NavbarComponent/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/SearchComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/SearchComponent/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/TopCornerComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/TopCornerComponent/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderComponent/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HotDealsComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HotDealsComponent/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OfferCarouselComponent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OfferCarouselComponent/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OfferCarouselComponent/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,12 +16,12 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.4620431">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/BrandsComponent/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="14" column="97" lean-forward="true" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+                <state relative-caret-position="165">
+                  <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -59,8 +32,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/BrandsComponent/style.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="79">
-                  <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+                <state relative-caret-position="210">
+                  <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -71,8 +44,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/OfferCarouselComponent/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+                <state relative-caret-position="195">
+                  <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -83,7 +56,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/BrandsComponent/index.js">
               <provider selected="true" editor-type-id="text-editor">
@@ -157,11 +130,11 @@
         <option value="$PROJECT_DIR$/src/components/CarouselComponent/style.js" />
         <option value="$PROJECT_DIR$/src/images.json" />
         <option value="$PROJECT_DIR$/src/components/HotDealsComponent/index.js" />
-        <option value="$PROJECT_DIR$/src/components/OfferCarouselComponent/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/HotDealsComponent/style.js" />
         <option value="$PROJECT_DIR$/src/components/BrandsComponent/index.js" />
         <option value="$PROJECT_DIR$/src/components/BrandsComponent/style.js" />
+        <option value="$PROJECT_DIR$/src/components/OfferCarouselComponent/index.js" />
       </list>
     </option>
   </component>
@@ -278,16 +251,18 @@
       <workItem from="1554351617957" duration="702000" />
       <workItem from="1554352838007" duration="2181000" />
       <workItem from="1554355036710" duration="16080000" />
+      <workItem from="1554437502175" duration="565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48676000" />
+    <option name="totallyTimeSpent" value="49241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1637931" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1637931" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -301,7 +276,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007837" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4992163" weight="0.3990228" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4992163" visible="true" weight="0.39739415" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -502,20 +477,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/BrandsComponent/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/BrandsComponent/style.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="14" column="97" lean-forward="true" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        <state relative-caret-position="210">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/BrandsComponent/style.js">
+    <entry file="file://$PROJECT_DIR$/src/components/BrandsComponent/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="165">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -524,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/OfferCarouselComponent/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        <state relative-caret-position="195">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
